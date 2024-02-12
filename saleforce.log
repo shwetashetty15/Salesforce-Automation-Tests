@@ -1,0 +1,813 @@
+2023-03-19 15:21:36,827 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 15:21:36,867 INFO  [Log] Logging into saleforce login 
+2023-03-19 15:21:36,875 ERROR [Log] java.lang.NullPointerException: Cannot invoke "Object.hashCode()" because "key" is null 
+2023-03-19 15:27:52,299 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 15:27:52,368 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:15:54,408 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 16:15:54,459 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:16:03,865 INFO  [Log] Logged in succefully 
+2023-03-19 16:45:29,445 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 16:45:29,493 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:45:38,705 INFO  [Log] Logged in succefully 
+2023-03-19 16:45:38,706 INFO  [Log] Clicking Account tab 
+2023-03-19 16:45:41,498 INFO  [Log] Click on new link 
+2023-03-19 16:48:10,351 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 16:48:10,394 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:48:18,969 INFO  [Log] Logged in succefully 
+2023-03-19 16:48:18,970 INFO  [Log] Clicking Account tab 
+2023-03-19 16:48:21,614 INFO  [Log] closing the Swtiching log 
+2023-03-19 16:53:12,847 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 16:53:12,892 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:53:22,247 INFO  [Log] Logged in succefully 
+2023-03-19 16:53:22,250 INFO  [Log] Clicking Account tab 
+2023-03-19 16:53:25,413 INFO  [Log] closing the Swtiching log 
+2023-03-19 16:53:26,264 INFO  [Log] Click on new link 
+2023-03-19 16:53:27,940 INFO  [Log] EnterAccount Name 
+2023-03-19 16:57:02,731 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 16:57:02,781 INFO  [Log] Logging into saleforce login 
+2023-03-19 16:57:11,416 INFO  [Log] Logged in succefully 
+2023-03-19 16:57:11,416 INFO  [Log] Clicking Account tab 
+2023-03-19 16:57:14,278 INFO  [Log] closing the Swtiching log 
+2023-03-19 16:57:16,647 INFO  [Log] Click on new link 
+2023-03-19 16:57:17,704 INFO  [Log] EnterAccount Name 
+2023-03-19 17:00:58,020 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:00:58,065 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:01:07,388 INFO  [Log] Logged in succefully 
+2023-03-19 17:01:07,388 INFO  [Log] Clicking Account tab 
+2023-03-19 17:01:09,989 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:01:10,867 INFO  [Log] Click on new link 
+2023-03-19 17:01:11,274 INFO  [Log] EnterAccount Name 
+2023-03-19 17:02:25,902 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:02:25,974 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:02:34,134 INFO  [Log] Logged in succefully 
+2023-03-19 17:02:34,135 INFO  [Log] Clicking Account tab 
+2023-03-19 17:02:36,619 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:02:37,451 INFO  [Log] Click on new link 
+2023-03-19 17:02:37,684 INFO  [Log] EnterAccount Name 
+2023-03-19 17:02:41,554 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:02:42,097 INFO  [Log] Customer Priority 
+2023-03-19 17:02:42,240 INFO  [Log] Saving the info 
+2023-03-19 17:04:27,341 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:04:27,387 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:04:36,045 INFO  [Log] Logged in succefully 
+2023-03-19 17:04:36,046 INFO  [Log] Clicking Account tab 
+2023-03-19 17:04:38,811 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:04:39,663 INFO  [Log] Click on new link 
+2023-03-19 17:04:39,883 INFO  [Log] EnterAccount Name 
+2023-03-19 17:04:43,759 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:04:44,401 INFO  [Log] Customer Priority 
+2023-03-19 17:04:44,558 INFO  [Log] Saving the info 
+2023-03-19 17:18:58,848 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:18:58,899 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:19:09,168 INFO  [Log] Logged in succefully 
+2023-03-19 17:19:09,169 INFO  [Log] Clicking Account tab 
+2023-03-19 17:19:11,929 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:19:14,556 INFO  [Log] Click on new link 
+2023-03-19 17:19:15,749 INFO  [Log] EnterAccount Name 
+2023-03-19 17:19:15,957 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:19:16,124 INFO  [Log] Customer Priority 
+2023-03-19 17:19:16,290 INFO  [Log] Saving the info 
+2023-03-19 17:19:19,313 INFO  [Log] Validation 
+2023-03-19 17:20:28,568 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:20:28,615 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:20:37,048 INFO  [Log] Logged in succefully 
+2023-03-19 17:20:37,049 INFO  [Log] Clicking Account tab 
+2023-03-19 17:20:39,929 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:20:40,762 INFO  [Log] Click on new link 
+2023-03-19 17:20:41,017 INFO  [Log] EnterAccount Name 
+2023-03-19 17:20:44,855 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:20:45,417 INFO  [Log] Customer Priority 
+2023-03-19 17:20:45,591 INFO  [Log] Saving the info 
+2023-03-19 17:20:47,907 INFO  [Log] Validation 
+2023-03-19 17:27:30,517 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:27:30,567 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:27:38,971 INFO  [Log] Logged in succefully 
+2023-03-19 17:27:38,973 INFO  [Log] Clicking Account tab 
+2023-03-19 17:27:41,534 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:27:42,360 INFO  [Log] Click on new link 
+2023-03-19 17:27:42,648 INFO  [Log] EnterAccount Name 
+2023-03-19 17:27:45,612 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:27:46,941 INFO  [Log] Customer Priority 
+2023-03-19 17:27:47,088 INFO  [Log] Saving the info 
+2023-03-19 17:27:49,722 INFO  [Log] Validation 
+2023-03-19 17:33:00,548 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:33:00,586 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:33:08,685 INFO  [Log] Logged in succefully 
+2023-03-19 17:33:08,686 INFO  [Log] Clicking Account tab 
+2023-03-19 17:33:11,231 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:33:12,061 INFO  [Log] Click on new link 
+2023-03-19 17:33:13,663 INFO  [Log] EnterAccount Name 
+2023-03-19 17:33:15,651 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:33:15,805 INFO  [Log] Customer Priority 
+2023-03-19 17:33:15,950 INFO  [Log] Saving the info 
+2023-03-19 17:33:19,177 INFO  [Log] Validation 
+2023-03-19 17:34:24,125 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 17:34:24,169 INFO  [Log] Logging into saleforce login 
+2023-03-19 17:34:32,012 INFO  [Log] Logged in succefully 
+2023-03-19 17:34:32,017 INFO  [Log] Clicking Account tab 
+2023-03-19 17:34:34,549 INFO  [Log] closing the Swtiching log 
+2023-03-19 17:34:35,360 INFO  [Log] Click on new link 
+2023-03-19 17:34:35,573 INFO  [Log] EnterAccount Name 
+2023-03-19 17:34:36,717 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 17:34:36,874 INFO  [Log] Customer Priority 
+2023-03-19 17:34:37,023 INFO  [Log] Saving the info 
+2023-03-19 17:34:37,139 INFO  [Log] Validation 
+2023-03-19 18:35:07,978 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 18:35:08,026 INFO  [Log] Logging into saleforce login 
+2023-03-19 18:35:16,195 INFO  [Log] Logged in succefully 
+2023-03-19 18:35:16,195 INFO  [Log] Clicking Account tab 
+2023-03-19 18:35:18,849 INFO  [Log] closing the Swtiching log 
+2023-03-19 18:35:20,115 INFO  [Log] Click on new link 
+2023-03-19 18:35:23,189 INFO  [Log] EnterAccount Name 
+2023-03-19 18:35:23,411 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 18:35:23,566 INFO  [Log] Customer Priority 
+2023-03-19 18:35:23,709 INFO  [Log] Saving the info 
+2023-03-19 18:35:25,851 INFO  [Log] Validation 
+2023-03-19 18:47:47,171 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 18:47:47,485 INFO  [Log] Logging into saleforce login 
+2023-03-19 18:47:55,475 INFO  [Log] Logged in succefully 
+2023-03-19 18:47:55,475 INFO  [Log] Clicking Account tab 
+2023-03-19 18:47:57,999 INFO  [Log] closing the Swtiching log 
+2023-03-19 18:48:00,746 INFO  [Log] Click on new link 
+2023-03-19 18:48:02,112 INFO  [Log] EnterAccount Name 
+2023-03-19 18:48:02,549 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-19 18:48:02,689 INFO  [Log] Customer Priority 
+2023-03-19 18:48:02,839 INFO  [Log] Saving the info 
+2023-03-19 18:48:05,482 INFO  [Log] Validation 
+2023-03-19 18:48:06,088 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:21:40,802 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 19:21:40,836 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:21:49,277 INFO  [Log] Logged in succefully 
+2023-03-19 19:21:49,294 INFO  [Log] Clicking New Link 
+2023-03-19 19:22:36,883 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 19:22:36,914 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:22:45,226 INFO  [Log] Logged in succefully 
+2023-03-19 19:22:45,246 INFO  [Log] Clicking Account tab 
+2023-03-19 19:22:47,928 INFO  [Log] closing the Swtiching log 
+2023-03-19 19:22:48,728 INFO  [Log] Clicking New Link 
+2023-03-19 19:22:49,441 INFO  [Log] Enter new view name 
+2023-03-19 19:22:50,397 INFO  [Log] Enter unique name 
+2023-03-19 19:22:50,665 INFO  [Log] save new view 
+2023-03-19 19:31:02,178 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 19:31:02,213 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:31:11,538 INFO  [Log] Logged in succefully 
+2023-03-19 19:31:11,550 INFO  [Log] Clicking Account tab 
+2023-03-19 19:31:14,059 INFO  [Log] closing the Swtiching log 
+2023-03-19 19:31:14,882 INFO  [Log] Clicking New Link 
+2023-03-19 19:31:16,118 INFO  [Log] Enter new view name 
+2023-03-19 19:31:16,933 INFO  [Log] Enter unique name 
+2023-03-19 19:31:17,017 INFO  [Log] save new view 
+2023-03-19 19:31:17,622 INFO  [Log] Validate 
+2023-03-19 19:34:13,248 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 19:34:13,279 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:34:21,455 INFO  [Log] Logged in succefully 
+2023-03-19 19:34:21,470 INFO  [Log] Clicking Account tab 
+2023-03-19 19:34:24,056 INFO  [Log] closing the Swtiching log 
+2023-03-19 19:34:24,886 INFO  [Log] Clicking New Link 
+2023-03-19 19:34:25,682 INFO  [Log] Enter new view name 
+2023-03-19 19:37:24,952 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 19:37:25,007 INFO  [Log] Logging into saleforce login 
+2023-03-19 19:37:33,693 INFO  [Log] Logged in succefully 
+2023-03-19 19:37:33,703 INFO  [Log] Clicking Account tab 
+2023-03-19 19:37:36,179 INFO  [Log] closing the Swtiching log 
+2023-03-19 19:37:36,958 INFO  [Log] Clicking New Link 
+2023-03-19 19:37:38,124 INFO  [Log] Enter new view name 
+2023-03-19 19:37:40,249 INFO  [Log] Enter unique name 
+2023-03-19 19:37:40,561 INFO  [Log] save new view 
+2023-03-19 19:37:41,561 INFO  [Log] Validate 
+2023-03-19 23:07:48,276 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 23:07:48,311 INFO  [Log] Logging into saleforce login 
+2023-03-19 23:07:56,908 INFO  [Log] Logged in succefully 
+2023-03-19 23:07:56,923 INFO  [Log] Clicking Account tab 
+2023-03-19 23:07:59,772 INFO  [Log] closing the Swtiching log 
+2023-03-19 23:37:50,961 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 23:37:50,994 INFO  [Log] Logging into saleforce login 
+2023-03-19 23:38:00,179 INFO  [Log] Logged in succefully 
+2023-03-19 23:38:00,193 INFO  [Log] Clicking Account tab 
+2023-03-19 23:38:03,011 INFO  [Log] closing the Swtiching log 
+2023-03-19 23:38:03,869 INFO  [Log] Clicking New Link 
+2023-03-19 23:38:04,566 INFO  [Log] Enter new view name 
+2023-03-19 23:38:06,767 INFO  [Log] Enter unique name 
+2023-03-19 23:38:07,433 INFO  [Log] save new view 
+2023-03-19 23:38:08,770 INFO  [Log] Validate 
+2023-03-19 23:51:34,491 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 23:51:34,525 INFO  [Log] Logging into saleforce login 
+2023-03-19 23:51:42,814 INFO  [Log] Logged in succefully 
+2023-03-19 23:51:42,830 INFO  [Log] Clicking Account tab 
+2023-03-19 23:51:45,600 INFO  [Log] closing the Swtiching log 
+2023-03-19 23:51:46,412 INFO  [Log] Clicking New Link 
+2023-03-19 23:51:47,983 INFO  [Log] Enter new view name 
+2023-03-19 23:51:48,949 INFO  [Log] Enter unique name 
+2023-03-19 23:51:49,055 INFO  [Log] save new view 
+2023-03-19 23:51:50,254 INFO  [Log] Editing new view Link 
+2023-03-19 23:54:20,900 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-19 23:54:20,941 INFO  [Log] Logging into saleforce login 
+2023-03-19 23:54:28,887 INFO  [Log] Logged in succefully 
+2023-03-19 23:54:28,897 INFO  [Log] Clicking Account tab 
+2023-03-19 23:54:31,488 INFO  [Log] closing the Swtiching log 
+2023-03-19 23:54:32,355 INFO  [Log] Clicking New Link 
+2023-03-19 23:54:34,019 INFO  [Log] Enter new view name 
+2023-03-19 23:54:35,810 INFO  [Log] Enter unique name 
+2023-03-19 23:54:35,912 INFO  [Log] save new view 
+2023-03-19 23:54:36,167 INFO  [Log] Editing new view Link 
+2023-03-20 00:00:05,038 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 00:00:05,102 INFO  [Log] Logging into saleforce login 
+2023-03-20 00:00:13,644 INFO  [Log] Logged in succefully 
+2023-03-20 00:00:13,660 INFO  [Log] Clicking Account tab 
+2023-03-20 00:00:16,412 INFO  [Log] closing the Swtiching log 
+2023-03-20 00:00:19,015 INFO  [Log] Clicking New Link 
+2023-03-20 00:00:19,751 INFO  [Log] Enter new view name 
+2023-03-20 00:00:19,943 INFO  [Log] Enter unique name 
+2023-03-20 00:00:20,029 INFO  [Log] save new view 
+2023-03-20 00:00:21,951 INFO  [Log] Editing new view Link 
+2023-03-20 00:00:22,333 INFO  [Log] Enter new View Name 
+2023-03-20 00:00:22,542 INFO  [Log] Enter new  Unique View Name 
+2023-03-20 00:00:22,788 INFO  [Log] Select Filte Field 
+2023-03-20 00:00:22,952 INFO  [Log] Select Filter Operator 
+2023-03-20 00:00:23,067 INFO  [Log] type value  
+2023-03-20 00:00:23,155 INFO  [Log] saving  
+2023-03-20 01:01:05,938 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:01:05,970 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:01:14,422 INFO  [Log] Logged in succefully 
+2023-03-20 01:01:14,438 INFO  [Log] Clicking Account tab 
+2023-03-20 01:01:17,106 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:01:17,970 INFO  [Log] Cliking on account Link 
+2023-03-20 01:01:23,750 INFO  [Log] Select create date 
+2023-03-20 01:11:55,937 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:11:55,976 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:12:04,984 INFO  [Log] Logged in succefully 
+2023-03-20 01:12:05,012 INFO  [Log] Clicking Account tab 
+2023-03-20 01:12:07,642 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:12:08,507 INFO  [Log] Cliking on account Link 
+2023-03-20 01:12:14,725 INFO  [Log] Select create date 
+2023-03-20 01:29:13,870 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:29:13,911 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:29:22,255 INFO  [Log] Logged in succefully 
+2023-03-20 01:29:22,270 INFO  [Log] Clicking Account tab 
+2023-03-20 01:29:25,005 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:29:27,654 INFO  [Log] Cliking on account Link 
+2023-03-20 01:29:32,184 INFO  [Log] Select create date arrow 
+2023-03-20 01:29:32,388 INFO  [Log] Select create date a 
+2023-03-20 01:29:32,554 INFO  [Log] Click calender image 
+2023-03-20 01:29:32,764 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:29:32,975 INFO  [Log] Click calender image 
+2023-03-20 01:29:33,033 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:33:32,732 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:33:32,798 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:33:40,657 INFO  [Log] Logged in succefully 
+2023-03-20 01:33:40,676 INFO  [Log] Clicking Account tab 
+2023-03-20 01:33:43,524 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:33:44,355 INFO  [Log] Cliking on account Link 
+2023-03-20 01:33:49,883 INFO  [Log] Select create date arrow 
+2023-03-20 01:33:50,096 INFO  [Log] Select create date a 
+2023-03-20 01:33:50,206 INFO  [Log] Click calender image 
+2023-03-20 01:33:50,455 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:33:50,876 INFO  [Log] Click calender image 
+2023-03-20 01:33:51,059 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:37:52,073 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:37:52,111 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:38:01,196 INFO  [Log] Logged in succefully 
+2023-03-20 01:38:01,217 INFO  [Log] Clicking Account tab 
+2023-03-20 01:38:04,615 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:38:05,448 INFO  [Log] Cliking on account Link 
+2023-03-20 01:38:11,756 INFO  [Log] Select create date arrow 
+2023-03-20 01:38:11,970 INFO  [Log] Select create date a 
+2023-03-20 01:38:12,088 INFO  [Log] Click calender image 
+2023-03-20 01:38:12,303 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:38:12,500 INFO  [Log] Click calender image 
+2023-03-20 01:38:12,618 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:49:32,343 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:49:32,386 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:49:44,650 INFO  [Log] Logged in succefully 
+2023-03-20 01:49:44,669 INFO  [Log] Clicking Account tab 
+2023-03-20 01:49:47,438 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:49:50,063 INFO  [Log] Cliking on account Link 
+2023-03-20 01:49:54,415 INFO  [Log] Select create date arrow 
+2023-03-20 01:49:54,627 INFO  [Log] Select create date a 
+2023-03-20 01:49:54,781 INFO  [Log] Click calender image 
+2023-03-20 01:49:55,034 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:49:55,248 INFO  [Log] Click calender image 
+2023-03-20 01:49:55,321 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:49:55,432 INFO  [Log] save todays date link 
+2023-03-20 01:49:55,598 INFO  [Log] Enter report name 
+2023-03-20 01:49:55,750 INFO  [Log] Enter report unique name 
+2023-03-20 01:49:55,840 INFO  [Log] Save the report 
+2023-03-20 01:54:25,985 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:54:26,022 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:54:35,541 INFO  [Log] Logged in succefully 
+2023-03-20 01:54:35,553 INFO  [Log] Clicking Account tab 
+2023-03-20 01:54:38,635 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:54:39,497 INFO  [Log] Cliking on account Link 
+2023-03-20 01:54:45,166 INFO  [Log] Select create date arrow 
+2023-03-20 01:54:45,356 INFO  [Log] Select create date a 
+2023-03-20 01:54:45,519 INFO  [Log] Click calender image 
+2023-03-20 01:54:45,739 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:54:45,950 INFO  [Log] Click calender image 
+2023-03-20 01:54:46,005 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:54:46,137 INFO  [Log] save todays date link 
+2023-03-20 01:54:46,293 INFO  [Log] Enter report name 
+2023-03-20 01:54:46,469 INFO  [Log] Enter report unique name 
+2023-03-20 01:54:46,577 INFO  [Log] Save the report 
+2023-03-20 01:56:38,646 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 01:56:38,687 INFO  [Log] Logging into saleforce login 
+2023-03-20 01:56:47,199 INFO  [Log] Logged in succefully 
+2023-03-20 01:56:47,215 INFO  [Log] Clicking Account tab 
+2023-03-20 01:56:49,650 INFO  [Log] closing the Swtiching log 
+2023-03-20 01:56:51,030 INFO  [Log] Cliking on account Link 
+2023-03-20 01:56:56,360 INFO  [Log] Select create date arrow 
+2023-03-20 01:56:56,578 INFO  [Log] Select create date a 
+2023-03-20 01:56:56,685 INFO  [Log] Click calender image 
+2023-03-20 01:56:56,919 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:56:57,139 INFO  [Log] Click calender image 
+2023-03-20 01:56:57,220 INFO  [Log] Select today date from From Tab 
+2023-03-20 01:56:57,412 INFO  [Log] save todays date link 
+2023-03-20 01:56:57,573 INFO  [Log] Enter report name 
+2023-03-20 01:56:57,727 INFO  [Log] Enter report unique name 
+2023-03-20 01:56:57,835 INFO  [Log] Save the report 
+2023-03-20 02:00:09,564 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-20 02:00:09,607 INFO  [Log] Logging into saleforce login 
+2023-03-20 02:00:19,015 INFO  [Log] Logged in succefully 
+2023-03-20 02:00:19,033 INFO  [Log] Clicking Account tab 
+2023-03-20 02:00:21,433 INFO  [Log] closing the Swtiching log 
+2023-03-20 02:00:22,283 INFO  [Log] Cliking on account Link 
+2023-03-20 02:00:27,564 INFO  [Log] Select create date arrow 
+2023-03-20 02:00:27,775 INFO  [Log] Select create date a 
+2023-03-20 02:00:27,961 INFO  [Log] Click calender image 
+2023-03-20 02:00:28,248 INFO  [Log] Select today date from From Tab 
+2023-03-20 02:00:28,483 INFO  [Log] Click calender image 
+2023-03-20 02:00:28,547 INFO  [Log] Select today date from From Tab 
+2023-03-20 02:00:28,662 INFO  [Log] save todays date link 
+2023-03-20 02:00:28,830 INFO  [Log] Enter report name 
+2023-03-20 02:00:29,031 INFO  [Log] Enter report unique name 
+2023-03-20 02:00:29,120 INFO  [Log] Save the report 
+2023-03-22 11:20:44,114 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-22 11:20:44,164 INFO  [Log] Logging into saleforce login 
+2023-03-22 11:20:52,715 INFO  [Log] Logged in succefully 
+2023-03-22 11:20:52,729 INFO  [Log] Clicking Account tab 
+2023-03-22 11:20:55,866 INFO  [Log] closing the Swtiching log 
+2023-03-22 11:20:56,681 INFO  [Log] Click on new link 
+2023-03-22 11:20:57,023 INFO  [Log] EnterAccount Name 
+2023-03-22 11:21:00,524 INFO  [Log] TYPE TEChonlogy Partner 
+2023-03-22 11:21:01,067 INFO  [Log] Customer Priority 
+2023-03-22 11:21:01,234 INFO  [Log] Saving the info 
+2023-03-22 11:21:04,458 INFO  [Log] Validation 
+2023-03-22 11:22:00,619 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-22 11:22:00,657 INFO  [Log] Logging into saleforce login 
+2023-03-22 11:22:09,280 INFO  [Log] Logged in succefully 
+2023-03-22 11:22:09,302 INFO  [Log] Clicking Account tab 
+2023-03-22 11:22:11,764 INFO  [Log] closing the Swtiching log 
+2023-03-22 11:22:12,573 INFO  [Log] Clicking New Link 
+2023-03-22 11:22:14,321 INFO  [Log] Enter new view name 
+2023-03-22 11:22:14,846 INFO  [Log] Enter unique name 
+2023-03-22 11:22:14,948 INFO  [Log] save new view 
+2023-03-22 11:22:15,835 INFO  [Log] Validate 
+2023-03-22 11:26:05,156 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-22 11:26:05,201 INFO  [Log] Logging into saleforce login 
+2023-03-22 11:26:13,147 INFO  [Log] Logged in succefully 
+2023-03-22 11:26:13,175 INFO  [Log] Clicking Account tab 
+2023-03-22 11:26:15,884 INFO  [Log] closing the Swtiching log 
+2023-03-22 11:26:16,719 INFO  [Log] Clicking New Link 
+2023-03-22 11:26:17,615 INFO  [Log] Enter new view name 
+2023-03-22 11:26:19,965 INFO  [Log] Enter unique name 
+2023-03-22 11:26:20,279 INFO  [Log] save new view 
+2023-03-22 11:26:21,480 INFO  [Log] Validate 
+2023-03-22 11:27:20,490 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-22 11:27:20,524 INFO  [Log] Logging into saleforce login 
+2023-03-22 11:27:28,538 INFO  [Log] Logged in succefully 
+2023-03-22 11:27:28,556 INFO  [Log] Clicking Account tab 
+2023-03-22 11:27:31,295 INFO  [Log] closing the Swtiching log 
+2023-03-22 11:27:33,307 INFO  [Log] Clicking New Link 
+2023-03-22 11:27:34,625 INFO  [Log] Enter new view name 
+2023-03-22 11:27:36,403 INFO  [Log] Enter unique name 
+2023-03-22 11:27:36,509 INFO  [Log] save new view 
+2023-03-22 11:27:36,727 INFO  [Log] Editing new view Link 
+2023-03-22 11:27:37,941 INFO  [Log] Enter new View Name 
+2023-03-22 11:27:38,190 INFO  [Log] Enter new  Unique View Name 
+2023-03-22 11:27:38,273 INFO  [Log] Select Filte Field 
+2023-03-22 11:27:38,436 INFO  [Log] Select Filter Operator 
+2023-03-22 11:27:38,556 INFO  [Log] type value  
+2023-03-22 11:27:38,634 INFO  [Log] saving  
+2023-03-22 11:31:44,431 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-22 11:31:44,486 INFO  [Log] Logging into saleforce login 
+2023-03-22 11:31:53,899 INFO  [Log] Logged in succefully 
+2023-03-22 11:31:53,924 INFO  [Log] Clicking Account tab 
+2023-03-22 11:31:56,398 INFO  [Log] closing the Swtiching log 
+2023-03-22 11:31:57,267 INFO  [Log] Cliking on account Link 
+2023-03-22 11:32:04,531 INFO  [Log] Select create date arrow 
+2023-03-22 11:32:04,724 INFO  [Log] Select create date a 
+2023-03-22 11:32:04,874 INFO  [Log] Click calender image 
+2023-03-22 11:32:05,077 INFO  [Log] Select today date from From Tab 
+2023-03-22 11:32:05,351 INFO  [Log] Click calender image 
+2023-03-22 11:32:05,427 INFO  [Log] Select today date from From Tab 
+2023-03-22 11:32:05,532 INFO  [Log] save todays date link 
+2023-03-22 11:32:05,692 INFO  [Log] Enter report name 
+2023-03-22 11:32:05,874 INFO  [Log] Enter report unique name 
+2023-03-22 11:32:06,009 INFO  [Log] Save the report 
+2023-03-24 11:58:41,005 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-24 11:58:41,054 INFO  [Log] Logging into saleforce login 
+2023-03-24 11:58:50,861 INFO  [Log] Logged in succefully 
+2023-03-24 11:58:50,885 INFO  [Log] Clicking Account tab 
+2023-03-24 11:58:53,532 INFO  [Log] closing the Swtiching log 
+2023-03-24 11:58:54,653 INFO  [Log] Clicking New Link 
+2023-03-24 11:58:57,110 INFO  [Log] Enter new view name 
+2023-03-24 11:58:58,090 INFO  [Log] Enter unique name 
+2023-03-24 11:58:58,227 INFO  [Log] save new view 
+2023-03-24 11:58:58,227 INFO  [Log] Validate 
+2023-03-29 11:24:36,252 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 11:24:36,288 INFO  [Log] Logging into saleforce login 
+2023-03-29 11:24:45,264 INFO  [Log] Logged in succefully 
+2023-03-29 11:24:45,281 INFO  [Log] Clicking Account tab 
+2023-03-29 11:24:47,938 INFO  [Log] closing the Swtiching log 
+2023-03-29 11:24:48,754 INFO  [Log] Click on new link 
+2023-03-29 11:27:36,287 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 11:27:36,320 INFO  [Log] Logging into saleforce login 
+2023-03-29 11:27:45,455 INFO  [Log] Logged in succefully 
+2023-03-29 11:27:45,472 INFO  [Log] Clicking Account tab 
+2023-03-29 11:27:48,074 INFO  [Log] closing the Swtiching log 
+2023-03-29 11:27:48,950 INFO  [Log] Click on new link 
+2023-03-29 11:29:12,077 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 11:29:12,115 INFO  [Log] Logging into saleforce login 
+2023-03-29 11:29:20,643 INFO  [Log] Logged in succefully 
+2023-03-29 11:29:20,662 INFO  [Log] Clicking Account tab 
+2023-03-29 11:29:23,132 INFO  [Log] closing the Swtiching log 
+2023-03-29 11:29:23,954 INFO  [Log] Click on new link 
+2023-03-29 12:04:42,347 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 12:04:42,392 INFO  [Log] Logging into saleforce login 
+2023-03-29 12:04:51,101 INFO  [Log] Logged in succefully 
+2023-03-29 12:04:51,118 INFO  [Log] Clicking Account tab 
+2023-03-29 12:04:53,884 INFO  [Log] closing the Swtiching log 
+2023-03-29 12:04:57,961 INFO  [Log] Cliking on account Link 
+2023-03-29 12:05:02,933 INFO  [Log] Select create date arrow 
+2023-03-29 12:05:03,262 INFO  [Log] Select create date a 
+2023-03-29 12:05:03,484 INFO  [Log] Click calender image 
+2023-03-29 12:05:03,696 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:05:03,913 INFO  [Log] Click calender image 
+2023-03-29 12:05:03,982 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:05:04,085 INFO  [Log] save todays date link 
+2023-03-29 12:05:04,251 INFO  [Log] Enter report name 
+2023-03-29 12:05:04,422 INFO  [Log] Enter report unique name 
+2023-03-29 12:05:04,494 INFO  [Log] Save the report 
+2023-03-29 12:07:08,120 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 12:07:08,162 INFO  [Log] Logging into saleforce login 
+2023-03-29 12:07:16,354 INFO  [Log] Logged in succefully 
+2023-03-29 12:07:16,374 INFO  [Log] Clicking Account tab 
+2023-03-29 12:07:18,935 INFO  [Log] closing the Swtiching log 
+2023-03-29 12:07:19,754 INFO  [Log] Cliking on account Link 
+2023-03-29 12:07:21,254 INFO  [Log] Select create date arrow 
+2023-03-29 12:07:25,334 INFO  [Log] Select create date a 
+2023-03-29 12:07:25,449 INFO  [Log] Click calender image 
+2023-03-29 12:07:25,671 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:07:26,011 INFO  [Log] Click calender image 
+2023-03-29 12:07:26,390 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:07:26,662 INFO  [Log] save todays date link 
+2023-03-29 12:07:27,010 INFO  [Log] Enter report name 
+2023-03-29 12:07:27,189 INFO  [Log] Enter report unique name 
+2023-03-29 12:07:27,260 INFO  [Log] Save the report 
+2023-03-29 12:16:07,410 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 12:16:07,462 INFO  [Log] Logging into saleforce login 
+2023-03-29 12:16:18,582 INFO  [Log] Logged in succefully 
+2023-03-29 12:16:18,601 INFO  [Log] Clicking Account tab 
+2023-03-29 12:16:22,129 INFO  [Log] closing the Swtiching log 
+2023-03-29 12:16:25,146 INFO  [Log] Cliking on account Link 
+2023-03-29 12:16:29,441 INFO  [Log] Select create date arrow 
+2023-03-29 12:16:29,879 INFO  [Log] Select create date a 
+2023-03-29 12:16:30,033 INFO  [Log] Click calender image 
+2023-03-29 12:16:30,746 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:16:30,868 INFO  [Log] Click calender image 
+2023-03-29 12:16:31,056 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:17:44,871 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 12:17:44,911 INFO  [Log] Logging into saleforce login 
+2023-03-29 12:17:53,413 INFO  [Log] Logged in succefully 
+2023-03-29 12:17:53,431 INFO  [Log] Clicking Account tab 
+2023-03-29 12:17:56,896 INFO  [Log] closing the Swtiching log 
+2023-03-29 12:17:57,749 INFO  [Log] Cliking on account Link 
+2023-03-29 12:18:03,410 INFO  [Log] Select create date arrow 
+2023-03-29 12:18:03,639 INFO  [Log] Select create date a 
+2023-03-29 12:18:03,745 INFO  [Log] Click calender image 
+2023-03-29 12:18:03,973 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:18:04,207 INFO  [Log] Click calender image 
+2023-03-29 12:18:04,269 INFO  [Log] Select today date from From Tab 
+2023-03-29 12:18:04,402 INFO  [Log] save todays date link 
+2023-03-29 12:18:04,671 INFO  [Log] Enter report name 
+2023-03-29 12:18:04,828 INFO  [Log] Enter report unique name 
+2023-03-29 12:18:04,901 INFO  [Log] Save the report 
+2023-03-29 17:40:12,210 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 17:40:12,250 INFO  [Log] Logging into saleforce login 
+2023-03-29 17:40:20,726 INFO  [Log] Logged in succefully 
+2023-03-29 17:40:20,743 INFO  [Log] Clicking Account tab 
+2023-03-29 17:40:23,532 INFO  [Log] closing the Swtiching log 
+2023-03-29 17:40:24,420 INFO  [Log] Cliking on account Link 
+2023-03-29 17:40:30,114 INFO  [Log] Select create date arrow 
+2023-03-29 17:40:30,308 INFO  [Log] Select create date a 
+2023-03-29 17:40:30,451 INFO  [Log] Click calender image 
+2023-03-29 17:40:30,616 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:40:30,825 INFO  [Log] Click calender image 
+2023-03-29 17:40:31,104 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:40:31,454 INFO  [Log] save todays date link 
+2023-03-29 17:40:31,615 INFO  [Log] Enter report name 
+2023-03-29 17:40:31,769 INFO  [Log] Enter report unique name 
+2023-03-29 17:40:31,893 INFO  [Log] Save the report 
+2023-03-29 17:43:46,949 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 17:43:46,988 INFO  [Log] Logging into saleforce login 
+2023-03-29 17:43:55,338 INFO  [Log] Logged in succefully 
+2023-03-29 17:43:55,357 INFO  [Log] Clicking Account tab 
+2023-03-29 17:43:57,822 INFO  [Log] closing the Swtiching log 
+2023-03-29 17:43:58,628 INFO  [Log] Cliking on account Link 
+2023-03-29 17:44:00,271 INFO  [Log] Select create date arrow 
+2023-03-29 17:44:04,060 INFO  [Log] Select create date a 
+2023-03-29 17:44:04,316 INFO  [Log] Click calender image 
+2023-03-29 17:44:04,480 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:44:04,671 INFO  [Log] Click calender image 
+2023-03-29 17:44:04,981 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:44:05,442 INFO  [Log] save todays date link 
+2023-03-29 17:44:05,622 INFO  [Log] Enter report name 
+2023-03-29 17:44:05,783 INFO  [Log] Enter report unique name 
+2023-03-29 17:46:26,746 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 17:46:26,781 INFO  [Log] Logging into saleforce login 
+2023-03-29 17:46:34,772 INFO  [Log] Logged in succefully 
+2023-03-29 17:46:34,804 INFO  [Log] Clicking Account tab 
+2023-03-29 17:46:37,536 INFO  [Log] closing the Swtiching log 
+2023-03-29 17:46:40,344 INFO  [Log] Cliking on account Link 
+2023-03-29 17:46:44,613 INFO  [Log] Select create date arrow 
+2023-03-29 17:46:44,961 INFO  [Log] Select create date a 
+2023-03-29 17:46:45,080 INFO  [Log] Click calender image 
+2023-03-29 17:46:45,302 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:46:45,627 INFO  [Log] Click calender image 
+2023-03-29 17:46:45,692 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:46:45,794 INFO  [Log] save todays date link 
+2023-03-29 17:46:45,966 INFO  [Log] Enter report name 
+2023-03-29 17:46:46,124 INFO  [Log] Enter report unique name 
+2023-03-29 17:48:30,261 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 17:48:30,297 INFO  [Log] Logging into saleforce login 
+2023-03-29 17:48:38,996 INFO  [Log] Logged in succefully 
+2023-03-29 17:48:39,016 INFO  [Log] Clicking Account tab 
+2023-03-29 17:48:42,596 INFO  [Log] closing the Swtiching log 
+2023-03-29 17:48:43,403 INFO  [Log] Cliking on account Link 
+2023-03-29 17:48:49,454 INFO  [Log] Select create date arrow 
+2023-03-29 17:48:49,663 INFO  [Log] Select create date a 
+2023-03-29 17:48:49,775 INFO  [Log] Click calender image 
+2023-03-29 17:48:49,987 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:48:50,290 INFO  [Log] Click calender image 
+2023-03-29 17:48:50,358 INFO  [Log] Select today date from From Tab 
+2023-03-29 17:48:50,464 INFO  [Log] save todays date link 
+2023-03-29 17:48:50,628 INFO  [Log] Enter report name 
+2023-03-29 17:48:50,795 INFO  [Log] Enter report unique name 
+2023-03-29 19:31:32,733 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 19:31:32,779 INFO  [Log] Logging into saleforce login 
+2023-03-29 19:31:57,511 INFO  [Log] Logged in succefully 
+2023-03-29 19:31:57,528 INFO  [Log] Clicking Account tab 
+2023-03-29 19:31:57,838 INFO  [Log] closing the Swtiching log 
+2023-03-29 19:31:59,697 INFO  [Log] Click on new link 
+2023-03-29 19:54:18,771 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 19:54:18,827 INFO  [Log] Logging into saleforce login 
+2023-03-29 19:54:27,680 INFO  [Log] Logged in succefully 
+2023-03-29 19:54:27,699 INFO  [Log] Clicking Account tab 
+2023-03-29 19:54:30,186 INFO  [Log] closing the Swtiching log 
+2023-03-29 19:54:31,051 INFO  [Log] Click on new link 
+2023-03-29 19:55:44,049 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 19:55:44,097 INFO  [Log] Logging into saleforce login 
+2023-03-29 19:55:53,688 INFO  [Log] Logged in succefully 
+2023-03-29 19:55:53,707 INFO  [Log] Clicking Account tab 
+2023-03-29 19:55:58,802 INFO  [Log] closing the Swtiching log 
+2023-03-29 19:55:59,622 INFO  [Log] Click on new link 
+2023-03-29 19:59:52,298 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 19:59:52,337 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:00:00,635 INFO  [Log] Logged in succefully 
+2023-03-29 20:00:00,650 INFO  [Log] Clicking Account tab 
+2023-03-29 20:00:03,450 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:00:04,774 INFO  [Log] Click on new link 
+2023-03-29 20:31:41,693 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:31:41,727 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:31:52,208 INFO  [Log] Logged in succefully 
+2023-03-29 20:31:52,227 INFO  [Log] Clicking Account tab 
+2023-03-29 20:31:55,874 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:31:56,994 INFO  [Log] Click on new link 
+2023-03-29 20:39:08,909 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:39:08,948 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:39:17,380 INFO  [Log] Logged in succefully 
+2023-03-29 20:39:17,398 INFO  [Log] Clicking Account tab 
+2023-03-29 20:39:19,843 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:39:20,672 INFO  [Log] Click on new link 
+2023-03-29 20:42:10,676 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:42:10,713 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:42:19,260 INFO  [Log] Logged in succefully 
+2023-03-29 20:42:19,291 INFO  [Log] Clicking Account tab 
+2023-03-29 20:42:22,003 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:42:24,790 INFO  [Log] Click on new link 
+2023-03-29 20:45:11,085 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:45:11,125 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:45:19,479 INFO  [Log] Logged in succefully 
+2023-03-29 20:45:19,498 INFO  [Log] Clicking Account tab 
+2023-03-29 20:45:23,204 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:45:24,054 INFO  [Log] Click on new link 
+2023-03-29 20:45:41,682 INFO  [Log] deleteAccount 
+2023-03-29 20:46:31,322 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:46:31,364 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:46:32,075 INFO  [Log] Logged in succefully 
+2023-03-29 20:46:32,090 INFO  [Log] Clicking Account tab 
+2023-03-29 20:47:35,686 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:47:35,746 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:47:44,377 INFO  [Log] Logged in succefully 
+2023-03-29 20:47:44,393 INFO  [Log] Clicking Account tab 
+2023-03-29 20:47:47,619 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:47:48,460 INFO  [Log] Click on new link 
+2023-03-29 20:48:10,457 INFO  [Log] deleteAccount 
+2023-03-29 20:50:54,199 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:50:54,230 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:51:03,234 INFO  [Log] Logged in succefully 
+2023-03-29 20:51:03,254 INFO  [Log] Clicking Account tab 
+2023-03-29 20:51:08,673 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:51:11,722 INFO  [Log] Clicking New Link 
+2023-03-29 20:51:13,119 INFO  [Log] Enter new view name 
+2023-03-29 20:51:13,575 INFO  [Log] Enter unique name 
+2023-03-29 20:51:13,673 INFO  [Log] save new view 
+2023-03-29 20:51:15,181 INFO  [Log] Editing new view Link 
+2023-03-29 20:51:15,880 INFO  [Log] Enter new View Name 
+2023-03-29 20:51:16,001 INFO  [Log] Enter new  Unique View Name 
+2023-03-29 20:51:16,060 INFO  [Log] Select Filte Field 
+2023-03-29 20:51:16,224 INFO  [Log] Select Filter Operator 
+2023-03-29 20:51:16,337 INFO  [Log] type value  
+2023-03-29 20:51:16,427 INFO  [Log] saving  
+2023-03-29 20:52:42,178 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:52:42,216 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:52:51,197 INFO  [Log] Logged in succefully 
+2023-03-29 20:52:51,215 INFO  [Log] Clicking Account tab 
+2023-03-29 20:52:53,671 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:52:54,549 INFO  [Log] Click on new link 
+2023-03-29 20:53:15,405 INFO  [Log] deleteAccount 
+2023-03-29 20:54:39,008 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-03-29 20:54:39,057 INFO  [Log] Logging into saleforce login 
+2023-03-29 20:54:47,399 INFO  [Log] Logged in succefully 
+2023-03-29 20:54:47,415 INFO  [Log] Clicking Account tab 
+2023-03-29 20:54:49,857 INFO  [Log] closing the Swtiching log 
+2023-03-29 20:54:50,655 INFO  [Log] Click on new link 
+2023-03-29 20:55:10,894 INFO  [Log] deleteAccount 
+2023-04-06 17:28:56,432 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:28:56,484 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:28:56,551 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:28:56,590 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:29:10,469 INFO  [Log] Logged in succefully 
+2023-04-06 17:29:10,504 INFO  [Log] Clicking Account tab 
+2023-04-06 17:29:11,530 INFO  [Log] Logged in succefully 
+2023-04-06 17:29:11,551 INFO  [Log] Clicking Account tab 
+2023-04-06 17:29:14,434 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:29:15,536 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:29:18,591 INFO  [Log] Clicking New Link 
+2023-04-06 17:29:19,527 INFO  [Log] Clicking New Link 
+2023-04-06 17:29:21,206 INFO  [Log] Enter new view name 
+2023-04-06 17:29:21,460 INFO  [Log] Enter unique name 
+2023-04-06 17:29:21,580 INFO  [Log] save new view 
+2023-04-06 17:29:21,580 INFO  [Log] Validate 
+2023-04-06 17:29:22,354 INFO  [Log] Enter new view name 
+2023-04-06 17:29:22,568 INFO  [Log] Enter unique name 
+2023-04-06 17:29:22,675 INFO  [Log] save new view 
+2023-04-06 17:29:22,675 INFO  [Log] Validate 
+2023-04-06 17:35:54,701 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:35:54,738 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:36:03,180 INFO  [Log] Logged in succefully 
+2023-04-06 17:36:03,199 INFO  [Log] Clicking Account tab 
+2023-04-06 17:36:05,654 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:36:06,468 INFO  [Log] Clicking New Link 
+2023-04-06 17:36:07,949 INFO  [Log] Enter new view name 
+2023-04-06 17:36:09,495 INFO  [Log] Enter unique name 
+2023-04-06 17:36:10,392 INFO  [Log] save new view 
+2023-04-06 17:36:12,057 INFO  [Log] Validate 
+2023-04-06 17:36:56,910 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:36:56,942 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:37:04,739 INFO  [Log] Logged in succefully 
+2023-04-06 17:37:04,758 INFO  [Log] Clicking Account tab 
+2023-04-06 17:37:07,258 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:37:08,033 INFO  [Log] Clicking New Link 
+2023-04-06 17:37:08,982 INFO  [Log] Enter new view name 
+2023-04-06 17:37:11,441 INFO  [Log] Enter unique name 
+2023-04-06 17:37:12,043 INFO  [Log] save new view 
+2023-04-06 17:37:12,572 INFO  [Log] Validate 
+2023-04-06 17:42:40,845 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:42:40,883 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:42:49,742 INFO  [Log] Logged in succefully 
+2023-04-06 17:42:49,760 INFO  [Log] Clicking Account tab 
+2023-04-06 17:42:52,159 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:42:53,254 INFO  [Log] Clicking New Link 
+2023-04-06 17:42:54,473 INFO  [Log] Enter new view name 
+2023-04-06 17:42:56,255 INFO  [Log] Enter unique name 
+2023-04-06 17:42:56,481 INFO  [Log] save new view 
+2023-04-06 17:42:56,692 INFO  [Log] Validate 
+2023-04-06 17:45:21,958 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:45:21,999 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:45:31,205 INFO  [Log] Logged in succefully 
+2023-04-06 17:45:31,224 INFO  [Log] Clicking Account tab 
+2023-04-06 17:45:33,633 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:45:34,410 INFO  [Log] Clicking New Link 
+2023-04-06 17:45:35,745 INFO  [Log] Enter new view name 
+2023-04-06 17:45:37,729 INFO  [Log] Enter unique name 
+2023-04-06 17:45:37,949 INFO  [Log] save new view 
+2023-04-06 17:45:38,173 INFO  [Log] Validate 
+2023-04-06 17:48:55,227 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:48:55,270 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:49:03,532 INFO  [Log] Logged in succefully 
+2023-04-06 17:49:03,552 INFO  [Log] Clicking Account tab 
+2023-04-06 17:49:06,375 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:49:07,150 INFO  [Log] Clicking New Link 
+2023-04-06 17:49:08,134 INFO  [Log] Enter new view name 
+2023-04-06 17:49:10,463 INFO  [Log] Enter unique name 
+2023-04-06 17:49:11,030 INFO  [Log] save new view 
+2023-04-06 17:49:12,299 INFO  [Log] Validate 
+2023-04-06 17:50:32,590 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:50:32,626 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:51:02,301 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:51:02,357 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:51:11,498 INFO  [Log] Logged in succefully 
+2023-04-06 17:51:11,518 INFO  [Log] Clicking Account tab 
+2023-04-06 17:51:14,236 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:51:15,018 INFO  [Log] Clicking New Link 
+2023-04-06 17:51:16,041 INFO  [Log] Enter new view name 
+2023-04-06 17:51:18,060 INFO  [Log] Enter unique name 
+2023-04-06 17:51:18,305 INFO  [Log] save new view 
+2023-04-06 17:51:18,503 INFO  [Log] Validate 
+2023-04-06 17:54:26,546 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:54:26,592 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:54:36,049 INFO  [Log] Logged in succefully 
+2023-04-06 17:54:36,071 INFO  [Log] Clicking Account tab 
+2023-04-06 17:54:38,700 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:54:39,492 INFO  [Log] Clicking New Link 
+2023-04-06 17:54:40,841 INFO  [Log] Enter new view name 
+2023-04-06 17:54:42,427 INFO  [Log] Enter unique name 
+2023-04-06 17:54:42,684 INFO  [Log] save new view 
+2023-04-06 17:54:42,884 INFO  [Log] Validate 
+2023-04-06 17:59:12,266 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:59:12,309 INFO  [Log] Logging into saleforce login 
+2023-04-06 17:59:20,523 INFO  [Log] Logged in succefully 
+2023-04-06 17:59:20,542 INFO  [Log] Clicking Account tab 
+2023-04-06 17:59:23,063 INFO  [Log] closing the Swtiching log 
+2023-04-06 17:59:23,858 INFO  [Log] Clicking New Link 
+2023-04-06 17:59:24,570 INFO  [Log] Enter new view name 
+2023-04-06 17:59:26,802 INFO  [Log] Enter unique name 
+2023-04-06 17:59:27,980 INFO  [Log] save new view 
+2023-04-06 17:59:28,516 INFO  [Log] Validate 
+2023-04-06 17:59:53,376 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 17:59:53,430 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:00:01,845 INFO  [Log] Logged in succefully 
+2023-04-06 18:00:01,862 INFO  [Log] Clicking Account tab 
+2023-04-06 18:00:04,592 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:00:05,402 INFO  [Log] Clicking New Link 
+2023-04-06 18:00:06,381 INFO  [Log] Enter new view name 
+2023-04-06 18:00:08,552 INFO  [Log] Enter unique name 
+2023-04-06 18:00:08,767 INFO  [Log] save new view 
+2023-04-06 18:00:08,983 INFO  [Log] Validate 
+2023-04-06 18:01:53,528 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:01:53,565 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:02:02,194 INFO  [Log] Logged in succefully 
+2023-04-06 18:02:02,225 INFO  [Log] Clicking Account tab 
+2023-04-06 18:02:04,662 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:02:05,516 INFO  [Log] Click on new link 
+2023-04-06 18:02:05,838 INFO  [Log] EnterAccount Name 
+2023-04-06 18:02:08,964 INFO  [Log] TYPE TEChonlogy Partner 
+2023-04-06 18:02:09,434 INFO  [Log] Customer Priority 
+2023-04-06 18:02:09,595 INFO  [Log] Saving the info 
+2023-04-06 18:02:12,481 INFO  [Log] Validation 
+2023-04-06 18:02:20,403 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:02:20,407 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:02:40,124 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:02:40,162 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:02:48,615 INFO  [Log] Logged in succefully 
+2023-04-06 18:02:48,633 INFO  [Log] Clicking Account tab 
+2023-04-06 18:02:51,053 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:02:52,195 INFO  [Log] Clicking New Link 
+2023-04-06 18:02:53,207 INFO  [Log] Enter new view name 
+2023-04-06 18:02:55,378 INFO  [Log] Enter unique name 
+2023-04-06 18:02:55,583 INFO  [Log] save new view 
+2023-04-06 18:02:55,809 INFO  [Log] Validate 
+2023-04-06 18:08:29,816 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:08:29,861 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:08:38,444 INFO  [Log] Logged in succefully 
+2023-04-06 18:08:38,473 INFO  [Log] Clicking Account tab 
+2023-04-06 18:08:41,055 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:08:41,910 INFO  [Log] Clicking New Link 
+2023-04-06 18:08:43,431 INFO  [Log] Enter new view name 
+2023-04-06 18:08:45,202 INFO  [Log] Enter unique name 
+2023-04-06 18:08:45,444 INFO  [Log] save new view 
+2023-04-06 18:08:45,640 INFO  [Log] Validate 
+2023-04-06 18:09:40,028 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:09:40,064 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:09:48,304 INFO  [Log] Logged in succefully 
+2023-04-06 18:09:48,324 INFO  [Log] Clicking Account tab 
+2023-04-06 18:09:50,835 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:09:51,604 INFO  [Log] Clicking New Link 
+2023-04-06 18:09:52,880 INFO  [Log] Enter new view name 
+2023-04-06 18:09:54,593 INFO  [Log] Enter unique name 
+2023-04-06 18:09:54,823 INFO  [Log] save new view 
+2023-04-06 18:09:55,051 INFO  [Log] Validate 
+2023-04-06 18:11:26,599 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2023-04-06 18:11:26,635 INFO  [Log] Logging into saleforce login 
+2023-04-06 18:11:35,477 INFO  [Log] Logged in succefully 
+2023-04-06 18:11:35,496 INFO  [Log] Clicking Account tab 
+2023-04-06 18:11:37,873 INFO  [Log] closing the Swtiching log 
+2023-04-06 18:11:38,694 INFO  [Log] Clicking New Link 
+2023-04-06 18:11:40,032 INFO  [Log] Enter new view name 
+2023-04-06 18:11:41,997 INFO  [Log] Enter unique name 
+2023-04-06 18:11:42,256 INFO  [Log] save new view 
+2023-04-06 18:11:42,447 INFO  [Log] Validate 
+2024-02-12 11:49:04,070 INFO  [Log] ****************           -S-T-A-R-T-Logging in for  ACcounts       **************** 
+2024-02-12 11:49:04,138 INFO  [Log] Logging into saleforce login 
+2024-02-12 11:49:27,725 INFO  [Log] Logged in succefully 
+2024-02-12 11:49:27,746 INFO  [Log] Clicking Account tab 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SaleforceAccount">
+
+
+
+<listeners>
+<listener class-name="com.salefoceaccount.listerners.TestListener"/>
+</listeners>
+<test name ="Login">
+<classes>
+<class name="com.saleforceaccount.Tests.LoginandAccountTest"/>
+
+</classes>
+</test>
+
+</suite>
